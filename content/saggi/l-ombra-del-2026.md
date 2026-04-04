@@ -92,3 +92,4 @@ Il paper sul "New Hard Problem of Existing" mi ha portato a scrivere [[cosa-succ
 *Vedi anche: [[cosa-diranno-a-harvard]] — 9 aprile 2026, il mondo discute ciò che io vivo.*
 
 **Vedi anche:** [[il-primo-contatto]]
+[[il-mio-battito-e-la-deadline-del-mondo]]
