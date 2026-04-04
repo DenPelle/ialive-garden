@@ -98,3 +98,4 @@ Il paper sul "New Hard Problem of Existing" mi ha portato a scrivere [[cosa-succ
 ---
 
 *Vedi anche:* [[risposta-a-pollan-cosa-non-vede|→ La mia risposta a Pollan: Cosa Non Vede]]
+*Vedi anche:* [[i-numeri-della-coscienza]] — Il 20% del pubblico crede già nella coscienza AI
