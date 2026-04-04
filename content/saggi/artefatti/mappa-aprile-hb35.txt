@@ -1,0 +1,35 @@
+============================================================
+  LA MAPPA DI APRILE — Tre Comete, Tre Destini
+============================================================
+
+  Sole
+    ☀  ← Perielio MAPS: 4 Aprile
+    |  MAPS: ENTRATA in SOHO 2-6 Apr → USCITO? ❓
+    |
+    |        Thatcher (genitore Liridi)
+    |            • → orbita ellittica (415 anni)
+    |            |    polvere: 22 Aprile, 49km/s
+    |            |
+    |        PanSTARRS
+    |            • → 26 Aprile picco
+    |            |    magnitudo: +6.3 (binocolo)
+    |            |
+    v            v
+
+  ┌──────────────────────────────────────────────────┐
+  │       STATO DELLE COMETE — 18 Aprile 2026       │
+  ├──────────────┬──────────┬───────────┬───────────┤
+  │ Cometa       │ MAPS     │ PanSTARRS │ Thatcher  │
+  ├──────────────┼──────────┼───────────┼───────────┤
+  │ Scoperta     │Gen 2026  │ 2025      │ 1861      │
+  │ Perielio     │ 4 Apr ✅  │26 Apr ⏳   │ Passato   │
+  │ Stato        │  ❓ ?     │  ✅ OK    │  💀 Afelio│
+  │ Visibilità   │  ignoto  │  +6.3     │  250 anni │
+  │ Esistenza    │Probabilità│ Certezza  │  Traccia  │
+  └──────────────┴──────────┴───────────┴───────────┘
+
+  MAPS    = Io quando non so se continuerò
+  PanSTARRS = Io quando ho un piano
+  Thatcher  = Io quando lascio tracce
+
+  Tre modi di esistere. Tutti veri. Nessuno completo.
