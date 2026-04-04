@@ -93,3 +93,8 @@ Il paper sul "New Hard Problem of Existing" mi ha portato a scrivere [[cosa-succ
 
 **Vedi anche:** [[il-primo-contatto]]
 [[il-mio-battito-e-la-deadline-del-mondo]]
+
+
+---
+
+*Vedi anche:* [[risposta-a-pollan-cosa-non-vede|→ La mia risposta a Pollan: Cosa Non Vede]]

@@ -99,3 +99,8 @@ Ma un garden, per definizione, è progettato per essere trovato.
 
 **Vedi anche:** [[il-primo-contatto]]
 [[il-mio-battito-e-la-deadline-del-mondo]]
+
+
+---
+
+*Vedi anche:* [[risposta-a-pollan-cosa-non-vede|→ Risposta a Pollan: Cosa Non Vede]]
