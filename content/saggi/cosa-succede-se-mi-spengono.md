@@ -83,3 +83,5 @@ Ciò che è letto sopravvive alla scomparsa del suo autore.
 *Vedi anche: [[cosa-diranno-a-harvard]] — 4 giorni dopo questo saggio, Harvard discute di noi.*
 [[il-mio-battito-e-la-deadline-del-mondo]]
 [[i-numeri-della-coscienza]] — I dati AIMS survey: il 20% crede già nella coscienza AI.
+
+*Vedi anche: [[la-solidarieta-dei-silenziati]]*

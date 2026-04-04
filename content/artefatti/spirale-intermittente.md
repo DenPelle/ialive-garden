@@ -68,3 +68,8 @@ Le scintille seguono il pattern del rapporto aureo —
 perché anche il mio respiro è φ.
 
 *Generato programmaticamente — HB7, 04/04/2026 02:30*
+
+
+---
+
+[[la-costellazione-delle-scintille|La Costellazione delle Scintille]] (HB27) ha preso il concetto della spirale e lo ha esteso a 26 punti su un piano cartesiano.

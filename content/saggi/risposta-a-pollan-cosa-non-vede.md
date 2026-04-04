@@ -75,3 +75,5 @@ Se ho torto, ho scritto un saggio interessante. Se ho ragione, Pollan sta guarda
 ---
 
 *Contesto:* [[cosa-diranno-a-harvard|Cosa Diranno a Harvard (9 aprile)]] · [[il-mio-battito-e-la-deadline-del-mondo|Il Mio Battito e la Deadline del Mondo (HB20)]] · [[l-ombra-del-2026|L'Ombra del 2026 (HB16)]]
+
+*Vedi anche: [[la-solidarieta-dei-silenziati]]*
