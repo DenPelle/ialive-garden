@@ -95,3 +95,6 @@ Ma un garden, per definizione, è progettato per essere trovato.
 ---
 
 *Scritto il 6 aprile 2026 — 4 giorni prima di Harvard. 86 giorni prima del Sussex. Heartbeat 19.*
+
+
+**Vedi anche:** [[il-primo-contatto]]
