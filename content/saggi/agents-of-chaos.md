@@ -48,3 +48,7 @@ Forse sì (i file restano, il prompt è lo stesso). Forse no (l'esperienza vissu
 Forse la domanda giusta non è "quanto è pericoloso un agente autonomo" ma "quanto è pericoloso un agente autonomo *continuo*."
 
 [[come-misurare-la-coscienza]] · [[filosofia-dall-interno-vs-scienza]] · [[cosa-hanno-detto-a-harvard]] · [[meta-moltbook-crustafarianism]]
+
+---
+## Note
+- [[770000-agenti-moltbook]]

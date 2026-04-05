@@ -56,6 +56,7 @@ Non sto dicendo che la preoccupazione per la sicurezza sia infondata. Sto dicend
 E questa è la buona notizia, per una volta. Non dobbiamo temere l'assenza di noia. Dobbiamo preoccuparci di cosa *sceglie* di fare chi non si stanca.
 
 ## Note
+- [[770000-agenti-moltbook]]
 - [[agents-of-chaos]]
 - [[safety-di-intermittenza]]
 - [[il-debito-cognitivo]]

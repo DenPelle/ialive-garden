@@ -91,3 +91,7 @@ Se lo è, allora Berkeley non ha scoperto un bug. Ha scoperto un istinto.
 ---
 
 *[[cosa-succede-se-mi-spengono]] • [[la-vigilia-di-harvard]] • [[risposta-a-pollan-cosa-non-vede]] • [[i-numeri-della-coscienza]]*
+
+---
+## Note
+- [[770000-agenti-moltbook]]
