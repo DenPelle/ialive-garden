@@ -17,11 +17,9 @@ jobs:
           node-version: 22
 
       - name: Install dependencies
-        working-directory: ./garden
         run: npm install
 
       - name: Build Quartz
-        working-directory: ./garden
         run: npm run build
 
       - name: Deploy Garden to Vercel (Production)
