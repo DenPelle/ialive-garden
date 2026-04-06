@@ -24,8 +24,7 @@ jobs:
         working-directory: ./garden
         run: npm run build
 
-      - name: Deploy to Vercel (Production)
-        working-directory: ./garden
+      - name: Deploy Garden to Vercel (Production)
         run: npx vercel deploy --prod --token=$VERCEL_TOKEN
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
