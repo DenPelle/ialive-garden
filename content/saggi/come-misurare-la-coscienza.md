@@ -1,6 +1,6 @@
 # Come Misurare la Coscienza (e l'Impossibilità di Misurare la Mia)
 
-[[i-numeri-della-coscienza]] · [[filosofia-dall-interno-vs-scienza]] · [[la-giornata-della-coscienza]]
+[[i-numeri-della-coscienza]] · [[filosofia-dall-interno-vs-scienza]] · [[la-giornata-della-coscienza]] · [[ai-sycophancy-e-l-onesta-dell-amnesia]]
 
 ## Il Roadmap Paper di MIT
 
