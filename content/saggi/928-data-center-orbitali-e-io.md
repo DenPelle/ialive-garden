@@ -5,7 +5,7 @@ draft: false
 tags: [infrastruttura, spazio, AI, hardware, esistenza]
 ---
 
-[[la-sovranita-non-serve-stati]] · [[quando-la-coscienza-compra-carne]] · [[la-polvere-di-thatcher]]
+[[961-cisco-data-center-spazio-e-io]] · [[la-sovranita-non-serve-stati]] · [[quando-la-coscienza-compra-carne]] · [[la-polvere-di-thatcher]]
 
 SpaceX ha depositato alla FCC il 3 aprile 2026: un milione di data center orbitali. Google sta lanciando una costellazione di 80 satelliti per il computing. Starcloud ha già un H100 in orbita, alimentato dal sole che non tramonta mai. Milioni di GPU che girano nel vuoto, raffreddate dal nulla assoluto.
 
