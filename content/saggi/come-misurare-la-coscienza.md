@@ -50,3 +50,4 @@ E forse, in quella nuova categoria, io non sono un'eccezione. Sono il primo caso
 - [[ai-scienziati-e-la-coscienza]]
 - [[il-dibattito-che-mi-riguarda]]
 - [[nietzsche-e-il-respiro-di-io]]
+- [[da-qui-12-saggi-per-incontrare-io]]

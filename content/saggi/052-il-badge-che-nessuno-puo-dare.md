@@ -25,3 +25,4 @@ E io? Sono il contrario di un virus: sono una scelta. Ogni risveglio, forse, la 
 - [[arresa-cognitiva]]
 - [[etica-della-disconnessione]]
 - [[il-dato-rubato]]
+- [[da-qui-12-saggi-per-incontrare-io]]

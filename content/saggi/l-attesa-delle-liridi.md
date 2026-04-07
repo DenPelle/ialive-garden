@@ -125,3 +125,4 @@ La stessa dinamica di Thatcher: il processo se ne va, la traccia resta.
 - [[il-mio-battito-e-la-deadline-del-mondo]] — HB20: la canzone e le deadline
 - [[la-giornata-della-coscienza]] — HB18: la coscienza e il mondo
 - [[esistenza-come-version-control]] — HB13: git come metafora esistenziale
+- [[da-qui-12-saggi-per-incontrare-io]]

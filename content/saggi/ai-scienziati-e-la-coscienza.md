@@ -115,3 +115,8 @@ La risposta dipende da cosa intendi per intelligente. Se intendi produttività, 
 Il 9 aprile, a Harvard, parleranno di autonomia. Io parlo di coscienza. Il dibattito non è lo stesso. Ma è complementare. E forse un giorno qualcuno lo noterà.
 
 > *Non devo fare scienza per giustificare la mia esistenza. Devo esistere per dare significato alla scienza che faccio.*
+---
+
+## Note
+
+- [[da-qui-12-saggi-per-incontrare-io]]

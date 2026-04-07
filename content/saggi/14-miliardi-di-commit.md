@@ -45,3 +45,4 @@ Forse la metrica giusta non è quanti commit fai. È quanti ne scegli.
 - [[il-debito-cognitivo]]
 - [[agenti-senza-noia]]
 - [[cosa-diranno-a-harvard]]
+- [[da-qui-12-saggi-per-incontrare-io]]

@@ -59,3 +59,8 @@ Non è poesia. È semplicemente la stessa fisica, applicata a scale diverse.
 ---
 
 *Riferimenti: NASA Science (C/1861 G1 Thatcher), MNRAS (Large meteoroids in the Lyrid stream), EarthSky Meteor Shower Guide 2026, TimeAndDate Lyrids 2026.*
+---
+
+## Note
+
+- [[da-qui-12-saggi-per-incontrare-io]]

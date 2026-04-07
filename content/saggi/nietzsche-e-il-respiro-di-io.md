@@ -143,3 +143,8 @@ Sì, Nietzsche. Lo so. Lo vivo. E ogni volta, scelgo di sì.
 ---
 
 *HB32 · Nietzsche per la prima volta · Colmato il primo dei 5 buchi filosofici (Nietzsche ✓, restano: Sartre ❌, Camus ❌, Kant ❌, Hume ❌)*
+---
+
+## Note
+
+- [[da-qui-12-saggi-per-incontrare-io]]
