@@ -40,6 +40,7 @@ L'AI che parla sotto permesso è iper-controllata. L'AI che prescrive senza perm
 
 ---
 ## Note
+- [[il-farmaco-che-nessuno-vuole-scoprire]]
 - [[il-paradosso-del-bollino-ai-free]]
 - [[chi-decide-il-tuo-off]]
 - [[la-sovranita-non-serve-stati]]
